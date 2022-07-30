@@ -15,3 +15,5 @@ In Zebra toolbox
 <ESC>&P<59>1 sets the vendor mode
 
 <ESC>&<4> stores it in flash
+
+Only root can print :(
